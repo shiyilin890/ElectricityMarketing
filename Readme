@@ -1,0 +1,8 @@
+Please see detail here:
+
+https://www.iriscastlecapital.com/
+
+
+Project:
+
+Electricity marketing using time series and non-linear optimization: 1) predict the electricity consumption, price and revenue for the next 25 years in Texas and California using ARIMA (Autoregressive integrated moving average) statistics model; 2) built mathematical model based on financial and physical conditions;  3) find the most profitable conditions by solving a series of unequal or equal equations using commercial (AMPL) or free (Pyomo) solvers. Python based data analysis and GUI.
